@@ -1,0 +1,71 @@
+
+/* default style */
+.container{
+    padding-bottom: 50px;
+}
+.default-button{
+    border: none;
+    padding: 8px 25px;
+    border-radius: 5px;
+    background-image: linear-gradient(to bottom,#FF589B 0%,#FF136F 100%);
+    color: white;
+}
+
+/* carousel style */
+
+.carousel-bg{
+    background-color: #FCEAE8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #FF136F;
+}
+/* Category Style */
+.category img{
+    width: 100px;
+}
+.cat{
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: white;
+}
+.cat-watch{
+    background-color: #FFA500;
+}
+.cat-bag{
+    background-color: #DA70D6;
+}
+.cat-shoes{
+    background-color: #0000FF;
+}
+
+/* shoes section style */
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 10px 10px lightgrey;
+}
+/* Backpack section style */
+.bag .card .card-footer{
+    background-color: white;
+    border-top: none;
+}
+
+/* contact section style */
+.contact{
+    background-color: #FCEAE8;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.contact h5{
+    color: gray;
+}
+
+footer{
+    text-align: center;
+}
